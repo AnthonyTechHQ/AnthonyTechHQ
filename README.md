@@ -1,22 +1,22 @@
 <h1 align="center">Hola, soy Anthony 👋 — AnthonyTechHQ</h1>
 
 <p align="center">
-  <em>Administrador IT · Desarrollador Web · Certificado en Google Workspace</em>
+  <em>Desarrollador Full Stack · Administrador IT · Certificado en Google Workspace</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D9BD6&center=true&vCenter=true&width=435&lines=Administrador+IT+%7C+Desarrollador+Web;Certificado+Google+Workspace;Construyendo+herramientas+que+resuelven+problemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D9BD6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Administrador+IT+%7C+Infraestructura+Cloud;Certificado+Google+Workspace;Construyendo+herramientas+que+resuelven+problemas" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy un profesional de TI y desarrollador basado en México, apasionado por construir herramientas que resuelven problemas reales de infraestructura y negocio. Me especializo en administración de dominios, infraestructura de correo, administración en la nube y desarrollo web moderno.
+Soy un desarrollador Full Stack y profesional de TI basado en México, apasionado por construir herramientas que resuelven problemas reales de infraestructura y negocio. Me muevo cómodamente tanto en el frontend como en el backend, y además gestiono infraestructura empresarial en la nube.
 
+- 💻 Desarrollo aplicaciones completas con **Angular**, **React + Vite**, **Node.js** y **Express.js**
 - 🏢 Administro infraestructura empresarial con **Microsoft 365** y **Google Workspace**
 - 🌐 Experiencia en **DNS**, **SSL** y **migración de correo** entre proveedores de hosting
-- ⚙️ Desarrollo aplicaciones web con **Angular** y **React + Vite**
 - 🎯 Siempre buscando automatizar y simplificar flujos de trabajo en TI
 
 ---
@@ -49,12 +49,23 @@ Soy un profesional de TI y desarrollador basado en México, apasionado por const
 
 ## 🛠️ Tecnologías
 
+**Frontend**
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+**Infraestructura & Cloud**
+<p>
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/DNS%20%26%20SSL-0078D7?style=for-the-badge&logo=cloudflare&logoColor=white"/>
