@@ -1,23 +1,23 @@
 <h1 align="center">Hola, soy Anthony 👋 — AnthonyTechHQ</h1>
 
 <p align="center">
-  <em>Desarrollador Full Stack · Administrador IT · Certificado en Google Workspace</em>
+  <em>Desarrollador Full Stack · Certificado en Google Workspace · Google Cloud</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D9BD6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Admin+%7C+Cloud;Google+Workspace+Certified;DNS+%26+SSL+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D9BD6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js;Google+Cloud+%26+Docker;Google+Workspace+Certified" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador Full Stack y profesional de TI ubicado en México, apasionado por construir herramientas que resuelven problemas reales de infraestructura y negocio. Me muevo cómodamente tanto en el frontend como en el backend, y además gestiono infraestructura empresarial en la nube.
+Soy un desarrollador Full Stack ubicado en México, enfocado en construir aplicaciones completas de principio a fin. Me especializo en el desarrollo frontend y backend, y despliego mis proyectos en la nube usando Google Cloud, Cloud Run y Docker.
 
-- 💻 Desarrollo aplicaciones completas con **Angular**, **React + Vite**, **Node.js** y **Express.js**
-- 🏢 Administro infraestructura **Google Workspace**
-- 🌐 Experiencia en **DNS**, **SSL** y **migración de correo** entre proveedores de hosting
-- 🎯 Siempre buscando automatizar y simplificar flujos de trabajo en TI
+- 💻 Desarrollo aplicaciones con **Angular**, **React + Vite**, **Node.js** y **Express.js**
+- ☁️ Despliegue en **Google Cloud VM**, **Cloud Run** y contenedores con **Docker**
+- 🗄️ Diseño y gestión de bases de datos con **MySQL**
+- 🏅 Certificado **Google Workspace Administrator**
 
 ---
 
@@ -73,7 +73,6 @@ Soy un desarrollador Full Stack y profesional de TI ubicado en México, apasiona
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
