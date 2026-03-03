@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador Full Stack y profesional de TI basado en México, apasionado por construir herramientas que resuelven problemas reales de infraestructura y negocio. Me muevo cómodamente tanto en el frontend como en el backend, y además gestiono infraestructura empresarial en la nube.
+Soy un desarrollador Full Stack y profesional de TI ubicado en México, apasionado por construir herramientas que resuelven problemas reales de infraestructura y negocio. Me muevo cómodamente tanto en el frontend como en el backend, y además gestiono infraestructura empresarial en la nube.
 
 - 💻 Desarrollo aplicaciones completas con **Angular**, **React + Vite**, **Node.js** y **Express.js**
 - 🏢 Administro infraestructura empresarial con **Microsoft 365** y **Google Workspace**
