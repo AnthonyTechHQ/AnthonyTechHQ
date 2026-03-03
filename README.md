@@ -23,27 +23,29 @@ Soy un desarrollador Full Stack y profesional de TI basado en México, apasionad
 
 ## 🚀 Proyectos
 
-### 🔐 App de DNS & SSL
-> Aplicación web personalizada para monitorear y gestionar registros DNS y el estado de certificados SSL en múltiples dominios.
-- Visualización de propagación DNS en tiempo real
-- Alertas de vencimiento de certificados SSL
-- Diseñada para administradores IT que gestionan múltiples dominios
+### 🌐 DNS Monitor
+> Plataforma interna para gestionar y monitorear registros DNS, con alertas de vencimiento de dominios registrados en el sistema.
+- **Frontend:** Angular (arquitectura de módulos) + CSS nativo
+- **Backend:** Express.js + MySQL — desarrollado desde cero
+- Gestión de dominios, alertas personalizadas y seguridad empresarial
+- Desplegada en Google Cloud VM · Uso interno en Akritechnology
 
 ---
 
-### ⚡ App con React + Vite
-> Aplicación frontend moderna construida con React y Vite para un desarrollo ágil y rendimiento optimizado.
-- Tiempos de compilación ultrarrápidos con Vite
-- Arquitectura basada en componentes
-- Interfaz limpia y responsiva
+### 🔐 SSL Controls
+> Aplicación interna para controlar y monitorear el vencimiento de certificados SSL, con autenticación via Google.
+- **Frontend:** React + Vite + Tailwind CSS
+- **Backend:** Express.js + MySQL — desarrollado desde cero
+- Acceso restringido con login de Google · Panel de certificados y usuarios
+- Desplegada en Google Cloud VM · Uso interno en Akritechnology
 
 ---
 
-### 🅰️ Proyecto Angular
-> Aplicación web completa construida con Angular siguiendo las mejores prácticas.
-- Arquitectura modular con TypeScript
-- Desarrollo escalable y mantenible
-- Enfocada en rendimiento y buenas prácticas
+### 📋 Módulo de Órdenes de Trabajo — YAAX
+> Módulo frontend mobile-first para que los empleados de campo de Akritechnology gestionen sus órdenes de trabajo del CRM/ERP YAAX.
+- **Frontend:** React + Vite · Diseño pensado para móvil
+- Consumo de API del sistema YAAX (akri-tech.com)
+- Sin desarrollo de backend — integración directa con la API existente
 
 ---
 
@@ -54,6 +56,7 @@ Soy un desarrollador Full Stack y profesional de TI basado en México, apasionad
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
@@ -62,13 +65,16 @@ Soy un desarrollador Full Stack y profesional de TI basado en México, apasionad
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 **Infraestructura & Cloud**
 <p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DNS%20%26%20SSL-0078D7?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
 ---
