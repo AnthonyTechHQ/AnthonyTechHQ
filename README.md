@@ -86,10 +86,14 @@ Soy un desarrollador Full Stack ubicado en México, enfocado en construir aplica
 
 ## 📊 Estadísticas de GitHub
 
+## <p align="center">
+##  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyTechHQ&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+##  <br/>
+##  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyTechHQ&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+## </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyTechHQ&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyTechHQ&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="https://streak-stats.demolab.com?user=AnthonyTechHQ&theme=tokyonight" />
 </p>
 
 ---
