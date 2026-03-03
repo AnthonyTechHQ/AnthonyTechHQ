@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D9BD6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Administrador+IT+%7C+Infraestructura+Cloud;Certificado+Google+Workspace;Construyendo+herramientas+que+resuelven+problemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D9BD6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Admin+%7C+Cloud;Google+Workspace+Certified;DNS+%26+SSL+Expert" alt="Typing SVG" />
 </p>
 
 ---
