@@ -42,7 +42,7 @@ Soy un desarrollador Full Stack ubicado en México, enfocado en construir aplica
 ---
 
 ### 📋 Módulo de Órdenes de Trabajo — YAAX
-> Módulo frontend mobile-first para que los empleados de campo de Akritechnology gestionen sus órdenes de trabajo del CRM/ERP YAAX.
+> Módulo frontend mobile-first para que los empleados de campo que gestionen sus órdenes de trabajo del CRM/ERP YAAX.
 - **Frontend:** React + Vite · Diseño pensado para móvil
 - Consumo de API del sistema YAAX (akri-tech.com)
 - Sin desarrollo de backend — integración directa con la API existente
