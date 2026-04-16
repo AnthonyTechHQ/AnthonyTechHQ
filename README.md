@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Anthony 👋 — AnthonyTechHQ</h1>
+<h1 align="center">Hola, soy Anthony 👋 — nxodev</h1>
 
 <p align="center">
   <em>Desarrollador Full Stack · Certificado en Google Workspace · Google Cloud</em>
