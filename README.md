@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador Full Stack ubicado en México, enfocado en construir aplicaciones completas de principio a fin. Me especializo en el desarrollo frontend y backend, y despliego mis proyectos en la nube usando Google Cloud, Cloud Run y Docker.
+Soy un desarrollador Full Stack ubicado en Oaxaca, enfocado en construir aplicaciones completas de principio a fin. Me especializo en el desarrollo frontend y backend, y despliego mis proyectos en la nube usando Google Cloud, Cloud Run y Docker.
 
 - 💻 Desarrollo aplicaciones con **Angular**, **React + Vite**, **Node.js** y **Express.js**
 - ☁️ Despliegue en **Google Cloud VM**, **Cloud Run** y contenedores con **Docker**
