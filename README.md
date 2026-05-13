@@ -97,7 +97,7 @@ Soy un desarrollador Full Stack ubicado en Oaxaca, enfocado en construir aplicac
 
 <p>
   <a href="https://github.com/nxodev">
-    <img src="https://img.shields.io/badge/GitHub-AnthonyTechHQ-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-nxodev-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
